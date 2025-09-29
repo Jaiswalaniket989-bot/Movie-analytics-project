@@ -60,6 +60,6 @@ A data analytics project analyzing over 1 million rows of movie data using Postg
 📧 jaiswalaniket989@gmail.com  
 📌 Portfolio coming soon!
 
----
+---📂[Download Raw Dataset (Google Drive)](https://drive.google.com/file/d/1TxRXS-ODVO-nAnp0XZIoiYffOUkI720A/view?usp=sharing)
 
 > ⭐ Star this repo if you found it useful!
