@@ -52,7 +52,16 @@ A data analytics project analyzing over 1 million rows of movie data using Postg
 - Applying DAX for interactive visuals
 - Business thinking behind analytics (profitability, rating trends, talent performance)
 
----
+------📂[Download Raw Dataset (Google Drive)](https://drive.google.com/file/d/1TxRXS-ODVO-nAnp0XZIoiYffOUkI720A/view?usp=sharing)
+
+### 📊 Dataset
+
+This dataset of over 1 million movie records was sourced from Kaggle.  
+You can explore or download it directly from the link below:
+
+ ----Dataset originally published by [Shubham R Pawar] on [Kaggle]
+👉 [Click here to view/download the raw dataset on Kaggle](https://www.kaggle.com/datasets/mjshubham21/movie-dataset-for-analytics-and-visualization?select=movies_dataset.csv)
+
 
 ## 🧑‍💻 Author
 
@@ -60,6 +69,5 @@ A data analytics project analyzing over 1 million rows of movie data using Postg
 📧 jaiswalaniket989@gmail.com  
 📌 Portfolio coming soon!
 
----📂[Download Raw Dataset (Google Drive)](https://drive.google.com/file/d/1TxRXS-ODVO-nAnp0XZIoiYffOUkI720A/view?usp=sharing)
 
 > ⭐ Star this repo if you found it useful!
