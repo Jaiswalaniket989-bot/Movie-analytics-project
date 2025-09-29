@@ -52,8 +52,6 @@ A data analytics project analyzing over 1 million rows of movie data using Postg
 - Applying DAX for interactive visuals
 - Business thinking behind analytics (profitability, rating trends, talent performance)
 
-------📂[Download Raw Dataset (Google Drive)](https://drive.google.com/file/d/1TxRXS-ODVO-nAnp0XZIoiYffOUkI720A/view?usp=sharing)
-
 ### 📊 Dataset
 
 This dataset of over 1 million movie records was sourced from Kaggle.  
